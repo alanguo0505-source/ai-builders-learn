@@ -11,11 +11,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "express": "^5.1.0",
-    "react": "^19.2.6",
-    "react-dom": "^19.2.6"
+    "express": "^5.1.0"
   },
   "devDependencies": {
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
     "@eslint/js": "^10.0.1",
     "@types/node": "^24.12.3",
     "@types/react": "^19.2.14",
